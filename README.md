@@ -10,7 +10,7 @@ Analysis of the Hitters Dataset, in which baseball players' statistics are used 
         <li>Elastic Net
         <li>Adaptive Lasso
      </ul>
-   !(https://github.com/hhuang5163/Hitters-Dataset-Analysis/blob/main/ImportantFeatures.png)
+   ![](https://github.com/hhuang5163/Hitters-Dataset-Analysis/blob/main/ImportantFeatures.png?raw=true)
    <li>Fit and visualized regularization paths for:
       <ul>
         <li>Lasso
